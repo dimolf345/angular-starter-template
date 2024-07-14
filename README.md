@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Purpose
 
-This is a starter template made while writing the article [Kickstart your new Angular project: a step by step guide]().
+This is a starter template made while writing the article [Kickstart your new Angular project: a step by step guide](https://medium.com/@lucadimolfetta/kickstart-your-new-angular-project-a-step-by-step-guide-f7b87776f740).
 
 It's the default Angular starter template, added with the following functionalities/libraries:
 
